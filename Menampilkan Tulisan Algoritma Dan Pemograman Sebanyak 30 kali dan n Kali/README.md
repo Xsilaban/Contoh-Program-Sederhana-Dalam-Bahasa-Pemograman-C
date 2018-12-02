@@ -17,7 +17,10 @@ Code Program :
     }
     
     
-    Algoritma Dan Pemograman Ditampilkan Sebanyak 30 Kali :
+Algoritma Dan Pemograman Ditampilkan Sebanyak 30 Kali :
     
-    ![img](https://raw.githubusercontent.com/Xsilaban/Contoh-Program-Sederhana-Dalam-Bahasa-Pemograman-C/master/Menampilkan%20Tulisan%20Algoritma%20Dan%20Pemograman%20Sebanyak%2030%20kali%20dan%20n%20Kali/Menampilkan%20tulisan%20algo30x.png)
+![img](https://raw.githubusercontent.com/Xsilaban/Contoh-Program-Sederhana-Dalam-Bahasa-Pemograman-C/master/Menampilkan%20Tulisan%20Algoritma%20Dan%20Pemograman%20Sebanyak%2030%20kali%20dan%20n%20Kali/Menampilkan%20tulisan%20algo30x.png)
     
+Algoritma Dan Pemograman Ditampilkan Sebanyak n Kali :
+
+![img](https://raw.githubusercontent.com/Xsilaban/Contoh-Program-Sederhana-Dalam-Bahasa-Pemograman-C/master/Menampilkan%20Tulisan%20Algoritma%20Dan%20Pemograman%20Sebanyak%2030%20kali%20dan%20n%20Kali/Menampilkan%20Tulisan%20algo%20nx.png)
