@@ -25,6 +25,6 @@ Gambar Flowchartnya Seperti ini :
 
 ![img](https://raw.githubusercontent.com/Xsilaban/Contoh-Program-Sederhana-Dalam-Bahasa-Pemograman-C/master/Mencari%20Luas%20Persegi%20Panjang/flowchart%20.png)
 
-Jika Panjang 5 Dan Lebarnya 5 Maka Hasilnya Akan Seperti ini :
+Jika Panjang 7 Dan Lebarnya 4 Maka Hasilnya Akan Seperti ini :
 
-![img](https://raw.githubusercontent.com/Xsilaban/Contoh-Program-Sederhana-Dalam-Bahasa-Pemograman-C/master/Mencari%20Luas%20Persegi%20Panjang/hasil%20.png)
+![img](https://raw.githubusercontent.com/Xsilaban/Contoh-Program-Sederhana-Dalam-Bahasa-Pemograman-C/master/Mencari%20Luas%20Persegi%20Panjang/Hasilpxl.png)
