@@ -1,4 +1,4 @@
-#include <stdio.h>
+        #include <stdio.h>
 
 	long int deret(int x);
 	main()
