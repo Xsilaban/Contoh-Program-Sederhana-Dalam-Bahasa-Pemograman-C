@@ -83,7 +83,7 @@ Code Program
       
 Hasil Menu 1 :
       
-![img](https://raw.githubusercontent.com/Xsilaban/Contoh-Program-Sederhana-Dalam-Bahasa-Pemograman-C/master/Program%20Dengan%20Menu%20Sederhana/Program%2Bmenu1.png)
+![img](https://raw.githubusercontent.com/Xsilaban/Contoh-Program-Sederhana-Dalam-Bahasa-Pemograman-C/master/Program%20Dengan%20Menu%20Sederhana/Program%2BMenu1.png)
       
 Hasil Menu 2 :
       
